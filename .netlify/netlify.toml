@@ -9,7 +9,6 @@ redirects = []
 [build]
 publish = "/Users/k/MainGoogleDrive/01_Sync/SoloProprietorship/04_item_list/00_Dev/birthday-message-test/hermes-clone-wget/lanterne.hermes.com"
 publishOrigin = "default"
-base = "/Users/k/MainGoogleDrive/01_Sync/SoloProprietorship/04_item_list/00_Dev/birthday-message-test/hermes-clone-wget/lanterne.hermes.com"
 
 [build.environment]
 
